@@ -1,0 +1,146 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The brethrens answer in London to Mr. Ferguson's letter</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1683</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A77332</idno>
+            <idno type="STC">Wing B4383</idno>
+            <idno type="STC">ESTC R225668</idno>
+            <idno type="EEBO-CITATION">99895245</idno>
+            <idno type="PROQUEST">99895245</idno>
+            <idno type="VID">152565</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A77332)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 152565)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2305:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The brethrens answer in London to Mr. Ferguson's letter</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>printed for H. Jones,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>M. DC. LXXXIII. [1683]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in the William Andrews Clark Memorial Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ferguson, Robert, d. 1714 --  Early works to 1800.</term>
+               <term>Letters --  Early works to 1800.</term>
+               <term>Broadsides --  England</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:152565:1" rendition="simple:additions"/>
+            <head>THE Brethrens Anſwer IN LONDON TO <hi>Mr. Ferguſon's Letter.</hi>
+            </head>
+            <opener>
+               <salute>Beloved in the Laird,—</salute>
+            </opener>
+            <p>WIth a great deal of grief, and fellow-feeling, we received your Lamenta<g ref="char:EOLhyphen"/>ble Epiſtle, and as you were pleas'd to make us partakers of the News of the Perſecution, and heavy affliction, wherewith you are afflicted; ſo we deſire you to ſympathize with us, when you read the following lines. Truly our Caſe is likewiſe very deſperate, and our Condition, Deplorable (if it were poſſible) with Tears of blood, we muſt needs to the ſhame, and Confuſion of your face, acknow<g ref="char:EOLhyphen"/>ledge, that you were the only mouth of the Cauſe—and the greateſt, and chiefeſt Inſtrument in Carrying on the precious work of a further, and more thorough-Reformation. Indeed you were the main Wheel, that mov'd in the late myſte<g ref="char:EOLhyphen"/>rious Engine, and by your Indefatigable paines, and Induſtry in Contriveing, and managing ſo great, and glorious a Deſigne, that it was in a manner brought, within ſight of the promis'd Land; but woo, and alaſs to you and us, we are neither of us permitted to Enter into it, it was all blaſted in the ve<g ref="char:EOLhyphen"/>ry minute, and we are all certainly inform'd that nothing but <hi>Woes</hi> and <hi>Curſes,</hi> and <hi>Judgements,</hi> fiery and Indignations are to be pour'd out upon us if we go on, and perſeſt, in ſuch horrid, and Rebellious Practices: there is a Notable, and thundering Text againſt us, <hi>Curſe not the King, no not in thy Bed-Chamber, for the birds of the Air ſhall Carry the thought, and that which hath Wings ſhall tell the matter;</hi> and therefore it is no wonder we are ſo unhappily prevented, ſince the Little birds not only tell tales, but diſcover the moſt ſecret thoughts and In<g ref="char:EOLhyphen"/>tentions of the Heart. As for your Spirit of Prophecy, that your write us, is en<g ref="char:EOLhyphen"/>ter'd into you, we do ſo far beleive it, that all our Plots and deſigns are in vain and to no purpoſe, unleſs to our own deſtruction, and that the thoughts of our heats, and the works of our hands ſhall Not meet their deſign'd Ends, <hi>viz.</hi> to Eſtabliſh the good old <hi>Covenant</hi> and <hi>Aſſociation,</hi> the old high Court of Juſtice, and a Com<g ref="char:EOLhyphen"/>plying Parliament, that would throughly mind their own, and the Intereſt of the Bretheren; Indeed had this took Effect, we had been richer in goods, than in Grace, and ſhould have repleniſh'd our ſelves with the Jewels and the Earings of thoſe <hi>Egyptians</hi> that ſo tyranouſly and perſecutingly Lord it over us—but on the contrary they Now ſpoile us, and diſtrain our Goods, for the violation of the Laws—but garnt,—that it had pleaſed our Infernal Maſter, (whoſe work we do, and whoſe wages we ſhall aſſuredly receive) to have lengthen'd the thread of <hi>Seigniour Potapskis</hi> life, yet he would never have continu'd to Suckle and Repleniſh us, with the Tap of Sedition, and Rebellion, fot he has gone on too much in that Work already; but We Say—had he liv'd, yet the ſtroock of Juſtice would have over taken him, and he would have received a fit recom<g ref="char:EOLhyphen"/>pence of his Reward, the Axe and Scaffold.</p>
+            <p>And this put me in mind to Advertiſe you of the Reſolution and Courage, with which the four Martyrs, embraced their Deſtinys, but eſpecially the Lord <hi>Ruſſel,</hi> who by the Aſſiſtance of the Reverend Doctor <hi>Board,</hi> Acted his laſt part
+<pb facs="tcp:152565:2"/>more like ſome <hi>Mutius Scaevolva,</hi> or <hi>Guido Faux</hi>—than a ſneaking Penitent Tray<g ref="char:EOLhyphen"/>tor—his Lordſhips Ghoſt (if reports be true) was lately ſeen near the fatal Place, of his Execution, and had like to been kill'd over again, by a midnight-Magiſtrate, for not Vaniſhing in due Seaſon, but I ſuppoſe neither the afore<g ref="char:EOLhyphen"/>mention'd Doctors hand, nor head was concern'd in this, if it had, it would ne<g ref="char:EOLhyphen"/>ver have wandred at ſo unſeaſonable a Minute, or have met with ſo ſevere a <hi>Baſtinado,</hi> Indeed the good Lord at his death approv'd himſelf in ſome meaſure like <hi>Sampſon in killing more at his death than in his life,</hi> for we are really inform'd he made uſe of white <hi>Powder,</hi> which the Doctor furniſh'd him with, which does a world of Execution without the leaſt Noiſe, his Speech was as Murdering as <hi>Bo<g ref="char:EOLhyphen"/>raskies</hi> Blunderbuſs, tho it made little or no report at all; Indeed the Doctor is an Excellent Compoſer, and has done this miſterious Buſineſs to a Tittle, very ingeniouſly, and with a great deal of Caution, but we know (to our Griefs) Murder will out, and ſuch ſort of Knavery cannot be long concealed, tho the greateſt care Imaginable be taken to ſecure it, I may ſay of him as was ſaid of the Men of <hi>Benjamen,</hi> that he ſlings a Stone to an hairs Breadth, but he has the fate of Left-handed-men to be very Unfortunate, but however the Intention was very good, and Pious, he did it no doubt for the Promotion of the good Cauſe, and and the carrying on the Work of the <hi>Laird</hi> ſucceſsfully in the three Nations—and therefore in our Opinion, he deſerves all poſſible Laud and Commendation, and a large Gratuity out of the ſtock of the <hi>Bretheren</hi>—</p>
+            <p>But as for your Dear, and Intimate friend Sr. <hi>Patience,</hi> we have nothing, but expected to hear fome News from him e're now, but in this too, we are diſap<g ref="char:EOLhyphen"/>pointed, and know not what to do for three or four ſwindging Evidences when thereſt of the Trials come on, 'tis true he did good Service, in his Generation, and (as you ſay) ventur'd his Soul for his Friend, but dares not venture his Neck for the <hi>good Old Cauſe.</hi>—</p>
+            <p>As for <hi>M,— G—,</hi> and <hi>A— I</hi> ſuppoſe they breath the ſame Air with you, and we much wonder that you did not more in large on that Subject, if my Lady G— be likewiſe in <hi>Terra in cognita,</hi> I hope <hi>M—</hi> is not in ſo bad a Condition, as you ſeem to repreſent him, for he has, no doubt, ſtill the ſame Spiritual ſtroakings, inward Comforts and Conſolations that he had before, But, Woe be unto <hi>G</hi>—if he has not the conſtant Supply of a kind Siſter to ſupport him in his Miſery—as for <hi>A—</hi> hee is no doubt like <hi>Hanibal</hi> in the <hi>Alps,</hi> will either make or find a way if there be no Stews, or Brothels ready made, he is the beſt Founder in the World, for the old Trade cannot be forgot; It Would be endleſs to recount all our miſerys, and the ſeveral Afflictions, the diſtreſſed Saints are exerciſed with, but we ſhall haſten to a Concluſion, with ſome few words of Uſe and Application.</p>
+            <p n="1">1. Then ſince, the Holy Plot, is ſo unexpectedly diſapointed, we may ſee what Fools and Idiots theſe men are, that put any truſt or Confidence in lying Vani<g ref="char:EOLhyphen"/>tys, or any work of their own hands, others were deſign'd to be our Sacrifices, but the Rod is fallen on our own Backs, and we muſt all hang in the Air, be<g ref="char:EOLhyphen"/>tween Heaven and Hell.</p>
+            <p>
+               <label>Eraſmus the ſeventh and the eighth.</label>
+            </p>
+            <p n="2">2 From the Conſtant and Reſolute behaviour of the Lord <hi>Ruſſel,</hi> you and all of us may learn this Profitable Leſſon <hi>(viz,) to do likewiſe,</hi> ſince Death is cer<g ref="char:EOLhyphen"/>tain, what need you care when it comes, ſince your Fate is written in your fore<g ref="char:EOLhyphen"/>heads.</p>
+            <p>
+               <label>Count Tekely the ſeventh and the eigihth.</label>
+            </p>
+            <p n="3">3. Let us adviſe you to have <hi>Patience,</hi> under your Sufferings, conſidering that the Laws are above you, and that it will be very Vain and Fooliſh for an Infant to ſtrive againſt a Man of War, bear up like a Couragious Souldier in the Cauſe, and your Lot be to Dye for it, Dye like a true Proteſtant Martyr with a Lye in your Mouth.</p>
+            <p>Conſider, and ſeriouſly Ponder, what we have now written unto you, and when any thing of moment Intervenes, pray make us acquainted with it, who remain in all brotherly Love and Affection, your deſpiſed, perſecuted Fellow-Sufferers.</p>
+            <closer>
+               <dateline>London, <date>the laſt year of Whig<g ref="char:EOLhyphen"/>giſme, and the middle of the Month of Sorrow.</date>
+               </dateline>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>H. Jones.</hi> M.DC.LXXXIII.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
